@@ -1,0 +1,57 @@
+.header{
+    padding-top: 24px;
+    padding-bottom: 25px;
+    display: flex;
+}
+.navlink:hover , .navlink:focus{
+    color: #2196F3;
+    
+    fill: currentColor;
+    
+}
+.navlink{
+    color: #fff;
+    text-decoration: none;
+    transition-property: color;
+    transition-duration: 250ms;
+    
+
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+span{
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+    color: aqua;
+}
+.rw
+{
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+}
+.iconpost, .numbericon{
+    width:20px ;
+    height: 20px;
+    fill: currentColor;
+}
+.iconpost{
+    margin-left:  310px ;
+}
+.numbericon{
+    margin-left: 40px;
+}
+  
+.post , .number {
+    display: inline-flex;
+    align-items: center;
+    color: currentColor;
+    text-decoration: none;
+    background-repeat: no-repeat;
+  }
+  .navlist{
+    display: flex;
+    list-style-type: none;
+}
+.navitem{
+    margin-right: 54px;
+}

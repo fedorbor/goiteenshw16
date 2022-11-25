@@ -1,0 +1,30 @@
+
+.special{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 94px;
+}
+.spech{
+justify-content: center;
+}
+.specit{
+    width: 270px
+}
+.diagram , .astronaut , .clock , .antenna{
+    width: 70px;
+    height: 70px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  .specdiv{
+    width: 270px;
+    height: 120px;
+    justify-content: center;
+    align-items: center;
+    background: #F5F4FA;
+  }
+  .special{
+    list-style-type: none;
+  }

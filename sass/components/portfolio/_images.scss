@@ -1,0 +1,13 @@
+.ex{
+    display: flex;
+    flex-wrap: wrap;
+     margin: -15px;
+     justify-content: center;
+   
+}
+.exl{
+   
+    margin: 15px;
+    width: calc((100% - 30px * 3) / 3);
+    justify-content: center;
+}
